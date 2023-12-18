@@ -1,0 +1,7 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Repo config for renovate. See https://github.com/tradeshift/renovate-config",
+  "extends": [
+    "config:recommended"
+  ]
+}
